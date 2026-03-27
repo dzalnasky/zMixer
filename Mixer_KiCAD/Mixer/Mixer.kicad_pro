@@ -530,7 +530,7 @@
         "pcb_color": "rgb(194, 0, 194)",
         "priority": 1,
         "schematic_color": "rgb(194, 0, 194)",
-        "track_width": 0.2017,
+        "track_width": 0.1797,
         "wire_width": 6
       },
       {
@@ -571,7 +571,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "./",
+      "plot": "gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

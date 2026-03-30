@@ -12,5 +12,7 @@ zMixer is a USB-C programmable, 0-4GHz IF to 5-10.4GHz RF upconverting/downconve
 <img width="2000" height="1414" alt="image" src="https://github.com/user-attachments/assets/ef451c22-a279-43c9-835b-61b33ad7adda" />
 
 # PCB
-<img width="716" height="575" alt="pcb_3d" src="https://github.com/user-attachments/assets/613a0f73-14cd-4ca1-a91b-45dada23e41e" />
+<img width="731" height="573" alt="pcb_3d" src="https://github.com/user-attachments/assets/2cf95733-156d-4b21-9958-c8fe8efc6a4b" />
+
+<img width="1011" height="800" alt="pcb_2d" src="https://github.com/user-attachments/assets/b9700063-1c2e-479f-97bc-aa4e81a0c2c4" />
 

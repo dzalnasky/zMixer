@@ -7850,7 +7850,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRT155C80J105KE01_01A.pdf"
 			(at 295.91 203.2 0)
 			(effects
 				(font
@@ -7887,6 +7887,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 295.91 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRT155C80J105KE01D?qs=sGAEpiMZZMvsSlwiRhF8qquPIBdUMwzg1fgbj7%2FnQ5tEZhEUazIlkA%3D%3D"
+			(at 295.91 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRT155C80J105KE01D"
 			(at 295.91 203.2 0)
 			(effects
 				(font
@@ -8154,7 +8172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 304.8 35.56 0)
 			(effects
 				(font
@@ -8200,6 +8218,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 304.8 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 304.8 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 304.8 35.56 90)
 			(effects
 				(font
@@ -8257,7 +8293,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM1557U1A302JA01-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 87.63 110.49 0)
 			(effects
 				(font
@@ -8294,6 +8330,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 87.63 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM1557U1A302JA01D?qs=MY6wChARw2y70SmNRdypAQ%3D%3D"
+			(at 87.63 110.49 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM1557U1A302JA01D"
 			(at 87.63 110.49 90)
 			(effects
 				(font
@@ -8420,7 +8474,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H4R0BA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -8457,6 +8511,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H4R0BA16J?qs=sGAEpiMZZMvsSlwiRhF8qiE2qjJvMbsZrH60oqJmx6f1QlJ2Yl3GJw%3D%3D"
+			(at 53.34 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H4R0BA16J"
 			(at 53.34 125.73 0)
 			(effects
 				(font
@@ -8517,7 +8589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/doc?28952"
 			(at 162.56 85.09 0)
 			(effects
 				(font
@@ -8554,6 +8626,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 162.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay-Beyschlag/MCT0603MC1200FP500?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz0CBlH9NzehRJy2tXVZSMVg%3D%3D"
+			(at 162.56 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "MCT0603MC1200FP500"
 			(at 162.56 85.09 0)
 			(effects
 				(font
@@ -8680,7 +8770,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/1/GRM155R71E103JA01-01A.pdf"
 			(at 356.87 203.2 0)
 			(effects
 				(font
@@ -8717,6 +8807,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 356.87 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R71E103JA01J?qs=sGAEpiMZZMvsSlwiRhF8qgU%252BD98hYT87gqxDS7ElokA%3D"
+			(at 356.87 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71E103JA01J"
 			(at 356.87 203.2 0)
 			(effects
 				(font
@@ -8976,7 +9084,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://datasheets.kyocera-avx.com/KGM_X7R.pdf"
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -9022,6 +9130,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/KYOCERA-AVX/04026C681KAT2A?qs=sGAEpiMZZMvsSlwiRhF8qgGS%252BZGwbwJJsF6CDPsurO4%3D"
+			(at 149.86 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "04026C681KAT2A"
 			(at 149.86 85.09 0)
 			(effects
 				(font
@@ -9316,7 +9442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM188R60J106ME47_61A.pdf"
 			(at 369.57 203.2 0)
 			(effects
 				(font
@@ -9353,6 +9479,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 369.57 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D?qs=sGAEpiMZZMvsSlwiRhF8qo0YBaqK0GLyi0Wa8bphtMI%3D"
+			(at 369.57 203.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R60J106ME47D"
 			(at 369.57 203.2 0)
 			(effects
 				(font
@@ -9413,7 +9557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/3/GRM155R61H474ME11_01A.pdf"
 			(at 49.53 96.52 0)
 			(effects
 				(font
@@ -9459,6 +9603,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 49.53 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R61H474ME11D?qs=sGAEpiMZZMvsSlwiRhF8qsL%2Fc0EXNue%2FSJtnv01lUXYmy7XtsBEgCA%3D%3D"
+			(at 49.53 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61H474ME11D"
 			(at 49.53 96.52 0)
 			(effects
 				(font
@@ -9717,7 +9879,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM155R70J104KA01_01A.pdf"
 			(at 76.2 35.56 0)
 			(effects
 				(font
@@ -9763,6 +9925,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 76.2 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R70J104KA01D?qs=sGAEpiMZZMvsSlwiRhF8qp5oaDrtHLzof7uAcCGXqF4%3D"
+			(at 76.2 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R70J104KA01D"
 			(at 76.2 35.56 0)
 			(effects
 				(font
@@ -9823,7 +10003,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/3/GRM155R61H474ME11_01A.pdf"
 			(at 187.96 180.34 0)
 			(effects
 				(font
@@ -9860,6 +10040,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 187.96 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R61H474ME11D?qs=sGAEpiMZZMvsSlwiRhF8qsL%2Fc0EXNue%2FSJtnv01lUXYmy7XtsBEgCA%3D%3D"
+			(at 187.96 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61H474ME11D"
 			(at 187.96 180.34 0)
 			(effects
 				(font
@@ -10398,7 +10596,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 101.6 201.93 0)
 			(effects
 				(font
@@ -10444,6 +10642,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 101.6 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/CRCW06035K10FKEBC?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz%2FG1bGth3rEYWSHBl%252Bnp12g%3D%3D"
+			(at 101.6 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06035K10FKEBC"
 			(at 101.6 201.93 0)
 			(effects
 				(font
@@ -10805,7 +11021,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM188R60J106ME47_61A.pdf"
 			(at 59.69 96.52 0)
 			(effects
 				(font
@@ -10851,6 +11067,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 59.69 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D?qs=sGAEpiMZZMvsSlwiRhF8qo0YBaqK0GLyi0Wa8bphtMI%3D"
+			(at 59.69 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R60J106ME47D"
 			(at 59.69 96.52 0)
 			(effects
 				(font
@@ -10910,7 +11144,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM155R70J104KA01_01A.pdf"
 			(at 67.31 73.66 0)
 			(effects
 				(font
@@ -10956,6 +11190,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 67.31 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R70J104KA01D?qs=sGAEpiMZZMvsSlwiRhF8qp5oaDrtHLzof7uAcCGXqF4%3D"
+			(at 67.31 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R70J104KA01D"
 			(at 67.31 73.66 0)
 			(effects
 				(font
@@ -11101,7 +11353,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "edf863f7-396a-4f84-bb68-8049e129dc4e")
+			(uuid "edf863f7-396a-4f84-bb68-8049e129dc4f")
 		)
 		(instances
 			(project ""
@@ -11148,7 +11400,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM155R70J104KA01_01A.pdf"
 			(at 77.47 73.66 0)
 			(effects
 				(font
@@ -11194,6 +11446,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 77.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R70J104KA01D?qs=sGAEpiMZZMvsSlwiRhF8qp5oaDrtHLzof7uAcCGXqF4%3D"
+			(at 77.47 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R70J104KA01D"
 			(at 77.47 73.66 0)
 			(effects
 				(font
@@ -11251,7 +11521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 152.4 43.18 0)
 			(effects
 				(font
@@ -11288,6 +11558,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 152.4 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 152.4 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 152.4 43.18 90)
 			(effects
 				(font
@@ -11345,7 +11633,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 166.37 54.61 0)
 			(effects
 				(font
@@ -11391,6 +11679,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 166.37 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 166.37 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 166.37 54.61 90)
 			(effects
 				(font
@@ -11450,7 +11756,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H4R0BA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 22.86 125.73 0)
 			(effects
 				(font
@@ -11487,6 +11793,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 22.86 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H4R0BA16J?qs=sGAEpiMZZMvsSlwiRhF8qiE2qjJvMbsZrH60oqJmx6f1QlJ2Yl3GJw%3D%3D"
+			(at 22.86 125.73 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H4R0BA16J"
 			(at 22.86 125.73 0)
 			(effects
 				(font
@@ -11547,7 +11871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM188R60J106ME47_61A.pdf"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -11593,6 +11917,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 80.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D?qs=sGAEpiMZZMvsSlwiRhF8qo0YBaqK0GLyi0Wa8bphtMI%3D"
+			(at 80.01 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R60J106ME47D"
 			(at 80.01 96.52 0)
 			(effects
 				(font
@@ -12100,7 +12442,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRT155C80J105KE01_01A.pdf"
 			(at 57.15 73.66 0)
 			(effects
 				(font
@@ -12146,6 +12488,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 57.15 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRT155C80J105KE01D?qs=sGAEpiMZZMvsSlwiRhF8qquPIBdUMwzg1fgbj7%2FnQ5tEZhEUazIlkA%3D%3D"
+			(at 57.15 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRT155C80J105KE01D"
 			(at 57.15 73.66 0)
 			(effects
 				(font
@@ -12206,7 +12566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 391.16 212.09 0)
 			(effects
 				(font
@@ -12243,6 +12603,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 391.16 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/CRCW0603140RFKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8g%2F0JmkxUP76JPWPgPTKtSrg%3D%3D"
+			(at 391.16 212.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW0603140RFKEAC"
 			(at 391.16 212.09 0)
 			(effects
 				(font
@@ -12366,7 +12744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 304.8 78.74 0)
 			(effects
 				(font
@@ -12412,6 +12790,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 304.8 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 304.8 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 304.8 78.74 90)
 			(effects
 				(font
@@ -12959,7 +13355,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 166.37 46.99 0)
 			(effects
 				(font
@@ -13005,6 +13401,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 166.37 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 166.37 46.99 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 166.37 46.99 90)
 			(effects
 				(font
@@ -13065,7 +13479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM1555C1H152GA01-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 185.42 85.09 0)
 			(effects
 				(font
@@ -13111,6 +13525,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM1555C1H152GA01D?qs=sGAEpiMZZMvsSlwiRhF8qtsGU%2FCnaNeQKqkl31ZBVTjvtsTZR8jIPQ%3D%3D"
+			(at 185.42 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM1555C1H152GA01D"
 			(at 185.42 85.09 0)
 			(effects
 				(font
@@ -13190,7 +13622,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "edf863f7-396a-4f84-bb68-8049e129dc4e")
+			(uuid "edf863f7-396a-4f84-bb68-8049e129dc50")
 		)
 		(instances
 			(project ""
@@ -13555,7 +13987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/3/GRM155R61A124ME19_01A.pdf"
 			(at 162.56 95.25 0)
 			(effects
 				(font
@@ -13601,6 +14033,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 162.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R61A124ME19D?qs=sGAEpiMZZMvsSlwiRhF8qg4BYYxG44hrZZ3VkltrycRi8WI3w630iQ%3D%3D"
+			(at 162.56 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R61A124ME19D"
 			(at 162.56 95.25 0)
 			(effects
 				(font
@@ -13661,7 +14111,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 345.44 217.17 0)
 			(effects
 				(font
@@ -13698,6 +14148,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 345.44 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/CRCW0603200KFKEBC?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lzj1qvidVE0%252BpJHbQx3IbM3A%3D%3D"
+			(at 345.44 217.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW0603200KFKEBC"
 			(at 345.44 217.17 0)
 			(effects
 				(font
@@ -13758,7 +14226,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM188R60J106ME47_61A.pdf"
 			(at 63.5 184.15 0)
 			(effects
 				(font
@@ -13804,6 +14272,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 63.5 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D?qs=sGAEpiMZZMvsSlwiRhF8qo0YBaqK0GLyi0Wa8bphtMI%3D"
+			(at 63.5 184.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R60J106ME47D"
 			(at 63.5 184.15 0)
 			(effects
 				(font
@@ -13863,7 +14349,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRT155C80J105KE01_01A.pdf"
 			(at 36.83 73.66 0)
 			(effects
 				(font
@@ -13909,6 +14395,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 36.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRT155C80J105KE01D?qs=sGAEpiMZZMvsSlwiRhF8qquPIBdUMwzg1fgbj7%2FnQ5tEZhEUazIlkA%3D%3D"
+			(at 36.83 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRT155C80J105KE01D"
 			(at 36.83 73.66 0)
 			(effects
 				(font
@@ -13988,7 +14492,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "edf863f7-396a-4f84-bb68-8049e129dc4e")
+			(uuid "edf863f7-396a-4f84-bb68-8049e129dc51")
 		)
 		(instances
 			(project ""
@@ -14036,7 +14540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM188R60J106ME47_61A.pdf"
 			(at 29.21 96.52 0)
 			(effects
 				(font
@@ -14082,6 +14586,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 29.21 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM188R60J106ME47D?qs=sGAEpiMZZMvsSlwiRhF8qo0YBaqK0GLyi0Wa8bphtMI%3D"
+			(at 29.21 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM188R60J106ME47D"
 			(at 29.21 96.52 0)
 			(effects
 				(font
@@ -14141,7 +14663,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H100JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 157.48 237.49 0)
 			(effects
 				(font
@@ -14178,6 +14700,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 157.48 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H100JA16J?qs=sGAEpiMZZMvsSlwiRhF8qtKev7nvVKumpb2JpqG8Yx70k9VY%252BZbzcQ%3D%3D"
+			(at 157.48 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H100JA16J"
 			(at 157.48 237.49 0)
 			(effects
 				(font
@@ -14235,7 +14775,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/doc?28758"
 			(at 177.8 54.61 0)
 			(effects
 				(font
@@ -14272,6 +14812,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 177.8 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/TNPW060350R0DEEA?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NEmFrf1cwKSAW8Me0rXIUSQ%3D%3D"
+			(at 177.8 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TNPW060350R0DEEA"
 			(at 177.8 54.61 90)
 			(effects
 				(font
@@ -14332,7 +14890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/1/GRM155R71E103JA01-01A.pdf"
 			(at 69.85 96.52 0)
 			(effects
 				(font
@@ -14378,6 +14936,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 69.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R71E103JA01J?qs=sGAEpiMZZMvsSlwiRhF8qgU%252BD98hYT87gqxDS7ElokA%3D"
+			(at 69.85 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R71E103JA01J"
 			(at 69.85 96.52 0)
 			(effects
 				(font
@@ -14892,7 +15468,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 152.4 35.56 0)
 			(effects
 				(font
@@ -14929,6 +15505,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 152.4 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 152.4 35.56 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 152.4 35.56 90)
 			(effects
 				(font
@@ -15389,7 +15983,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 345.44 204.47 0)
 			(effects
 				(font
@@ -15426,6 +16020,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 345.44 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/CRCW06031M00FKEAC?qs=sGAEpiMZZMvdGkrng054t0DrEhLhGh8gZuvSK8RNItRZ%2FgIcOUv9YA%3D%3D"
+			(at 345.44 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06031M00FKEAC"
 			(at 345.44 204.47 0)
 			(effects
 				(font
@@ -15485,7 +16097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRT155C80J105KE01_01A.pdf"
 			(at 90.17 96.52 0)
 			(effects
 				(font
@@ -15531,6 +16143,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 90.17 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRT155C80J105KE01D?qs=sGAEpiMZZMvsSlwiRhF8qquPIBdUMwzg1fgbj7%2FnQ5tEZhEUazIlkA%3D%3D"
+			(at 90.17 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRT155C80J105KE01D"
 			(at 90.17 96.52 0)
 			(effects
 				(font
@@ -15956,7 +16586,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H100JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 195.58 237.49 0)
 			(effects
 				(font
@@ -15993,6 +16623,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 195.58 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H100JA16J?qs=sGAEpiMZZMvsSlwiRhF8qtKev7nvVKumpb2JpqG8Yx70k9VY%252BZbzcQ%3D%3D"
+			(at 195.58 237.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H100JA16J"
 			(at 195.58 237.49 0)
 			(effects
 				(font
@@ -16119,7 +16767,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRM155R70J104KA01_01A.pdf"
 			(at 39.37 96.52 0)
 			(effects
 				(font
@@ -16165,6 +16813,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM155R70J104KA01D?qs=sGAEpiMZZMvsSlwiRhF8qp5oaDrtHLzof7uAcCGXqF4%3D"
+			(at 39.37 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM155R70J104KA01D"
 			(at 39.37 96.52 0)
 			(effects
 				(font
@@ -16224,7 +16890,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/docs/20035/dcrcwe3.pdf"
 			(at 109.22 201.93 0)
 			(effects
 				(font
@@ -16270,6 +16936,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 109.22 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/CRCW06035K10FKEBC?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz%2FG1bGth3rEYWSHBl%252Bnp12g%3D%3D"
+			(at 109.22 201.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "CRCW06035K10FKEBC"
 			(at 109.22 201.93 0)
 			(effects
 				(font
@@ -16327,7 +17011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 271.78 85.09 0)
 			(effects
 				(font
@@ -16373,6 +17057,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 271.78 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 271.78 85.09 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 271.78 85.09 90)
 			(effects
 				(font
@@ -16518,7 +17220,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "LMX2572RHAR"
+		(property "MPN" "LMX2572RHAT"
 			(at 105.41 49.53 0)
 			(effects
 				(font
@@ -16785,7 +17487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/doc?28758"
 			(at 166.37 43.18 0)
 			(effects
 				(font
@@ -16822,6 +17524,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 166.37 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/TNPW060350R0DEEA?qs=sGAEpiMZZMvdGkrng054t2cqbZCzJY7NEmFrf1cwKSAW8Me0rXIUSQ%3D%3D"
+			(at 166.37 43.18 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "TNPW060350R0DEEA"
 			(at 166.37 43.18 90)
 			(effects
 				(font
@@ -17013,7 +17733,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.mouser.com/datasheet/3/76/2/GRT155C80J105KE01_01A.pdf"
 			(at 46.99 73.66 0)
 			(effects
 				(font
@@ -17059,6 +17779,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 46.99 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRT155C80J105KE01D?qs=sGAEpiMZZMvsSlwiRhF8qquPIBdUMwzg1fgbj7%2FnQ5tEZhEUazIlkA%3D%3D"
+			(at 46.99 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRT155C80J105KE01D"
 			(at 46.99 73.66 0)
 			(effects
 				(font
@@ -17182,7 +17920,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GCM1555C1H200JA16-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 271.78 41.91 0)
 			(effects
 				(font
@@ -17228,6 +17966,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 271.78 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GCM1555C1H200JA16D?qs=sGAEpiMZZMvsSlwiRhF8qnJ%2FleZA9ZaIzk8OZ7SYYsrBJ6mi%2Fh9Wug%3D%3D"
+			(at 271.78 41.91 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GCM1555C1H200JA16D"
 			(at 271.78 41.91 90)
 			(effects
 				(font
@@ -17286,7 +18042,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://www.vishay.com/doc?20132"
 			(at 177.8 78.74 0)
 			(effects
 				(font
@@ -17323,6 +18079,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 177.8 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Vishay/RCA0603330RFKEASR?qs=sGAEpiMZZMvdGkrng054twszbajJBv1KN%252BOWAn6E1E%2Fd6hmQ3OKvWg%3D%3D"
+			(at 177.8 78.74 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "RCA0603330RFKEASR"
 			(at 177.8 78.74 90)
 			(effects
 				(font
@@ -17512,7 +18286,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "https://pim.murata.com/asset/pim4/ceramicCapacitorSMD/GRM1557U1A302JA01-01A-EN_PDF_CERAMICCAPACITORSMD"
 			(at 87.63 119.38 0)
 			(effects
 				(font
@@ -17549,6 +18323,24 @@
 			)
 		)
 		(property "Sim.Type" ""
+			(at 87.63 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Distributor Link" "https://www.mouser.com/ProductDetail/Murata-Electronics/GRM1557U1A302JA01D?qs=MY6wChARw2y70SmNRdypAQ%3D%3D"
+			(at 87.63 119.38 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MPN" "GRM1557U1A302JA01D"
 			(at 87.63 119.38 90)
 			(effects
 				(font

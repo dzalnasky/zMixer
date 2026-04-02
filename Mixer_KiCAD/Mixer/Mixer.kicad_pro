@@ -530,7 +530,7 @@
         "pcb_color": "rgb(194, 0, 194)",
         "priority": 1,
         "schematic_color": "rgb(194, 0, 194)",
-        "track_width": 0.1797,
+        "track_width": 0.233,
         "wire_width": 6
       },
       {
